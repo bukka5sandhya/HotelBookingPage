@@ -1,0 +1,45 @@
+body{
+    margin:0px;
+}
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    background-size: cover;
+    height:200vh;
+}
+.card{
+    background-color:black;
+    border-radius:20px;
+    padding:15px;
+    margin: 15px;
+
+}
+.heading{
+    font-family: 'Bree Serif';
+    color:yellow;
+    font-size:30px;
+    padding:10px;
+    font-weight:bold;
+}
+.text-line{
+    font-family: 'Roboto';
+    color:yellow;
+    font-size:20px;
+    padding:10px;
+    font-weight:500;
+}
+.price{
+    font-family: 'Roboto';
+    color:yellow;
+    font-size:50px;
+    padding:10px;
+    font-weight:500;
+}
+.book-button{
+    height:50px;
+    width:150px;
+    border-radius: 10px;
+    border-width:0px;
+    color:yellow;
+    
+    margin:5px;
+}
